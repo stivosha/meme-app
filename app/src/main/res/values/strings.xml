@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">developers-life</string>
+    <string name="internet_connection_error">Connection failed. Check your internet connection and try again.</string>
+    <string name="download_post_error">Error loading post</string>
+</resources>
